@@ -30,16 +30,16 @@ https://www.canva.com/link?target=https%3A%2F%2Fgithub.com%2FProdigy-InfoTech%2F
 
 ## Output Visualizations:
 ### Model Accuracy
-![Model Accuracy](images/accuracy_model.png)
+![Model Accuracy](IMAGES/accuracy_model.png)
 
 ### Decision Tree Visualization
-![Decision Tree](images/decision_tree.png)
+![Decision Tree](IMAGES/decision_tree.png)
 
 ### Feature Importance Plot
-![Feature Importance](images/feature_importance_plot.png)
+![Feature Importance](IMAGES/feature_importance_plot.png)
 
 ### Tested Customer Data Predictions
-![Tested Data](images/tested_data.jpeg)
+![Tested Data](IMAGES/tested_data.jpeg)
 
 ## Files Included
 - `predict_customers.py` – Python script with the complete pipeline and predictions  
