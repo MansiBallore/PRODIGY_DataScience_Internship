@@ -31,7 +31,7 @@ The main goal was to clean the text, visualize sentiment patterns, and explore w
 ![Overall Sentiment Distribution](IMAGES/Overall_Sentiment_Distribution.png)
 
 ### 📊 Topic-wise Sentiment Distribution
-![Topic-wise Sentiment Distribution](IMAGES/Topicwise_sentiment_distribution.png)
+![Topic-wise Sentiment Distribution](IMAGES/Topicwise_sntiment_distribution.png)
 
 ### 🌟 Positive Sentiment Word Cloud
 ![Positive Sentiment Word Cloud](IMAGES/positive_wordcloud.png)
